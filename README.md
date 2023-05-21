@@ -15,6 +15,8 @@
 2. CSS: Stylesheet language for enhancing the app's appearance. 🎨
 3. JavaScript: Programming language for implementing app logic and retrieving weather data. 🧪
 
+# Screenshots
+
 # Usage
 - To use the Weather App, follow these steps:
 
@@ -27,5 +29,5 @@
 # Deployment
 - The Weather App is deployed using Netlify and can be accessed at https://weather-app-by-ashraf.netlify.app/ 🌐🚀
 # Credits
-- The Weather App was developed by Ashutosh Kumar.
+- The Weather App was developed by Mozammil Ashraf.
 - Weather data is provided by the OpenWeatherMap API. 🌐🌦️
