@@ -16,6 +16,10 @@
 3. JavaScript: Programming language for implementing app logic and retrieving weather data. 🧪
 
 # Screenshots
+![wearher 1](https://github.com/Md-MozammilAshraf/weather-app/assets/127433098/3fc567ae-bb5c-4714-a08d-a75425c80108)
+![weather 2](https://github.com/Md-MozammilAshraf/weather-app/assets/127433098/6ec6fe78-46e0-4afd-bc0c-48ef7a530e20)
+![weather 3](https://github.com/Md-MozammilAshraf/weather-app/assets/127433098/6ede6341-79de-4cdf-9ee2-4737d03a6642)
+
 
 # Usage
 - To use the Weather App, follow these steps:
